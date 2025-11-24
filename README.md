@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ```
 
 ### Step 3: Prepare Data Files
-Ensure all CSV files are in the same directory as `app.py`:
+Ensure all CSV files are in the data folder which is in the same directory as `app.py`:
 - `orders.csv`
 - `delivery_performance.csv`
 - `cost_breakdown.csv`
