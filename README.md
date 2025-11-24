@@ -54,7 +54,7 @@ The NexGen Cost Intelligence Platform is a comprehensive, interactive web applic
 ```bash
 # If using git
 git clone <repository-url>
-cd nexgen-cost-intelligence
+cd Cost-Intelligence-Platform
 
 # Or simply download and extract the files
 ```
@@ -76,7 +76,7 @@ Ensure all CSV files are in the same directory as `app.py`:
 
 ### Step 4: Run the Application
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 The application will automatically open in your default web browser at `http://localhost:8501`
